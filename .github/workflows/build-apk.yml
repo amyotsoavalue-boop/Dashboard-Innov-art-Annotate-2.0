@@ -25,7 +25,8 @@ jobs:
 
       - name: Créer le projet Android
         run: |
-          npx cap add android
+          npx cap add android || true
+          mkdir -p android/app/src/main/assets
           npx cap sync android
 
       - name: Compiler l'APK
