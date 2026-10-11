@@ -1,0 +1,13 @@
+{
+  "name": "innovart-dashboard-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coque d'application mobile pour le dashboard Performance des agents",
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "appId": "com.innovart.dashboard",
+  "appName": "Innovart Dashboard",
+  "webDir": "www",
+  "server": {
+    "url": "https://script.google.com/macros/s/AKfycbyc8BcGEEHmDJnQAlbCAKms-_EpcIpIMiXtO9RVekc0LU2Ys4nxiCWWyWsvytLHt9ky/exec",
+    "allowNavigation": [
+      "script.google.com",
+      "*.google.com",
+      "*.googleusercontent.com",
+      "*.gstatic.com",
+      "fonts.googleapis.com"
+    ]
+  }
+}
